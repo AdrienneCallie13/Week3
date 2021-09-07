@@ -5,8 +5,11 @@ Task 1:
 In task 1, I learned and applied 4 simple JavaScript functions. Which include, toLowerCase, toUpperCase, includes, and charAt.  
 
 •	toLowerCase: This method is used to convert a string into lowercase letters.
+
 •	toUpperCase: This function transforms the string to uppercase letters.
+
 •	charAt: This function returns the character in a string at a specified index (position). It accepts an argument in the form of an index value.
+
 •	Includes: It examines a string to see if it includes the supplied string/characters.
 
 
