@@ -2,13 +2,13 @@ Learning reflection:  This week task really helps me in building my understandin
 
 Next week, I expected to work on 
 
-•	My first draft project proposal.
+•	My first draft project proposal (10 hours).
 
-•	Add more user stories on my project proposal.
+•	Add more user stories on my project proposal (1 hour).
 
-•	Learn and implement Vue components on VS code.
+•	Learn and implement Vue components on VS code (8 hours).
 
-• Researching complex components so that I can explain them them on my assets/user stories as needed.
+• Researching complex components so that I can explain them them on my assets/user stories as needed (5 hours).
 
 Task 1: 
 
