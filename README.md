@@ -1,6 +1,7 @@
 Learning reflection:  This week task really helps me in building my understanding about JavaScript and Vue components. I need to spend more time playing with all Vue components and familiarised myself with JavaScript function in order to implement them on my travel website. 
 
 Next week, I expected to work on 
+
 •	My first draft project proposal.
 
 •	Add more user stories on my project proposal.
