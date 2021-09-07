@@ -1,5 +1,11 @@
 Learning reflection:  This week task really helps me in building my understanding about JavaScript and Vue components. I need to spend more time playing with all Vue components and familiarised myself with JavaScript function in order to implement them on my travel website. 
 
+Next week, I expected to work on 
+•	My first draft project proposal.
+•	Add more user stories on my project proposal.
+•	Learn and implement Vue components on VS code.
+• Researching complex components so that I can explain them them on my assets/user stories as needed.
+
 Task 1: 
 
 In task 1, I learned and applied 4 simple JavaScript functions. Which include, toLowerCase, toUpperCase, includes, and charAt.  
